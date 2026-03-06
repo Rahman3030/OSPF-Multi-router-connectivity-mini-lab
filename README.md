@@ -2,6 +2,9 @@
 
 OSPF Multi-Router Connectivity Lab (Cisco Packet Tracer)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17d76357-739d-4ae6-bb03-de9218d3dacb" />
+
+
 # Overview
 
 This lab demonstrates how to configure OSPF (Open Shortest Path First) across multiple routers to allow communication between two remote LAN networks.
